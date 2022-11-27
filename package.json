@@ -7,8 +7,13 @@
     "type": "git",
     "url": "https://github.com/daploydev/shoulders-js.git"
   },
-  "keywords": [],
-  "author": "",
+  "dependencies": {
+    "next": "13.0.0",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+  },
+  "keywords": ["shouldersjs","nextjs","react", "framework"],
+  "author": "Daploy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/daploydev/shoulders-js/issues"
